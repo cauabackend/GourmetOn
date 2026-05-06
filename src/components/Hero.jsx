@@ -8,7 +8,7 @@ export default function Hero() {
         display: 'flex',
         flexDirection: 'column',
         justifyContent: 'flex-end',
-        padding: '0 2rem 5rem',
+        padding: '0 1.5rem clamp(3rem, 8vw, 5rem)',
         position: 'relative',
         overflow: 'hidden',
       }}

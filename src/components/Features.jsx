@@ -23,7 +23,7 @@ const items = [
 
 export default function Features() {
   return (
-    <section id="beneficios" style={{ padding: '8rem 2rem', background: 'var(--bg)' }}>
+    <section id="beneficios" style={{ padding: 'clamp(4rem, 10vw, 8rem) 1.5rem', background: 'var(--bg)' }}>
       <div style={{ maxWidth: '80rem', margin: '0 auto' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: '5rem', flexWrap: 'wrap', gap: '2rem' }}>
           <h2 style={{

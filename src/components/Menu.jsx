@@ -37,7 +37,7 @@ export default function Menu() {
         GourmetOn
       </a>
 
-      <ul style={{ display: 'flex', gap: '2.5rem', listStyle: 'none', alignItems: 'center' }} className="hidden md:flex">
+      <ul style={{ gap: '2.5rem', listStyle: 'none', alignItems: 'center' }} className="hidden md:flex">
         {links.map(([label, href]) => (
           <li key={label}>
             <a

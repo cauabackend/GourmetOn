@@ -29,7 +29,7 @@ export default function Contact() {
   }
 
   return (
-    <section id="contato" style={{ padding: '8rem 2rem', background: 'var(--surface)', borderTop: '1px solid var(--border)' }}>
+    <section id="contato" style={{ padding: 'clamp(4rem, 10vw, 8rem) 1.5rem', background: 'var(--surface)', borderTop: '1px solid var(--border)' }}>
       <div style={{ maxWidth: '80rem', margin: '0 auto' }} className="grid grid-cols-1 md:grid-cols-2 gap-16">
 
         <div>

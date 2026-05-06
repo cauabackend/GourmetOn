@@ -3,7 +3,7 @@ const legalLinks = ['Termos de uso', 'Privacidade'];
 
 export default function Footer() {
   return (
-    <footer style={{ background: 'var(--bg)', borderTop: '1px solid var(--border)', padding: '4rem 2rem' }}>
+    <footer style={{ background: 'var(--bg)', borderTop: '1px solid var(--border)', padding: 'clamp(3rem, 8vw, 4rem) 1.5rem' }}>
       <div style={{ maxWidth: '80rem', margin: '0 auto' }} className="grid grid-cols-1 md:grid-cols-3 gap-12">
 
         <div>

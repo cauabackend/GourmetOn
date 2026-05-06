@@ -18,7 +18,7 @@ const testimonials = [
 
 export default function Testimonials() {
   return (
-    <section style={{ padding: '8rem 2rem', background: 'var(--bg)', borderTop: '1px solid var(--border)' }}>
+    <section style={{ padding: 'clamp(4rem, 10vw, 8rem) 1.5rem', background: 'var(--bg)', borderTop: '1px solid var(--border)' }}>
       <div style={{ maxWidth: '80rem', margin: '0 auto' }}>
         <p style={{
           fontFamily: 'var(--font-body)',

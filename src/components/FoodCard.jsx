@@ -16,7 +16,7 @@ export default function FoodCard() {
   const { recipes, loading, error } = useRecipes();
 
   return (
-    <section id="funcionalidades" style={{ padding: '8rem 2rem', background: 'var(--surface)' }}>
+    <section id="funcionalidades" style={{ padding: 'clamp(4rem, 10vw, 8rem) 1.5rem', background: 'var(--surface)' }}>
       <div style={{ maxWidth: '80rem', margin: '0 auto' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: '4rem', flexWrap: 'wrap', gap: '1.5rem' }}>
           <h2 style={{
