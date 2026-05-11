@@ -14,11 +14,10 @@ Landing Page responsiva para app de delivery GourmetOn, com integração à Spoo
 
 ## Integrantes
 
-1. [Nome] - Frontend
-2. [Nome] - Backend/API
-3. [Nome] - Designer/UX
-4. [Nome] - DevOps/Deploy
-5. [Nome] - Documentação/QA
+Cauã Pereira da Silva - RM568143
+Felipe Estevo Santos - RM567780
+Igor Grave Teixeira - RM567663
+Renan dos Reis Santos - RM568540
 
 ## Links
 
