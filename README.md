@@ -19,11 +19,6 @@ Felipe Estevo Santos - RM567780
 Igor Grave Teixeira - RM567663
 Renan dos Reis Santos - RM568540
 
-## Links
-
-- Deploy: [URL Vercel]
-- Repositório: [GitHub URL]
-
 ## Como Rodar Localmente
 
 ```bash
